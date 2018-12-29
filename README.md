@@ -34,7 +34,7 @@ WALLET_FROM=
 
 ## Running
 
-Simply start the service and make a transfer from one wallet to another on Rindkeby testnet.
+Simply start the service and make a transfer from one wallet to another on Rinkeby testnet(for other networks update relevant details in `.env` file).
 
 ```
 npm start
