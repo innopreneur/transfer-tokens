@@ -13,7 +13,7 @@ cd transfer-tokens
 npm install
 ```
 
- - Fill .env from .env.example with the token contract address, wallets and amount, infura node details and exported private key.
+ - Fill `.env` from `.env.example` with the token contract address, wallets and amount, infura node details and exported private key.
 
 
 ```
