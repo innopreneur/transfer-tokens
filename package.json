@@ -1,0 +1,22 @@
+{
+  "name": "transfer-tokens",
+  "version": "1.0.0",
+  "description": "Transfers ERC-20 tokens serially to multiple addresses in a given csv file.",
+  "main": "transfer.js",
+  "scripts": {
+    "start": "nodemon src/transfer.js"
+  },
+  "keywords": [],
+  "author": "Innoprenuer <manan14patel@gmail.com>",
+  "license": "",
+  "dependencies": {
+    "bignumber.js": "^8.0.1",
+    "csv-parse": "^4.2.0",
+    "dotenv-safe": "^4.0.3",
+    "ethereumjs-tx": "^1.3.7",
+    "web3": "^1.0.0-beta.34"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
